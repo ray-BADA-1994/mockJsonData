@@ -1,0 +1,1548 @@
+{
+  "mockDataAdmin": [
+    {
+      "id": 1,
+      "firstName": "Jon",
+      "lastName": "Snow",
+      "email": "jonsnow@gmail.com",
+      "phone": "(665)121-5454",
+      "role": "admin",
+      "status": "Active",
+      "password": ""
+    },
+    {
+      "id": 2,
+      "firstName": "Cersei",
+      "lastName": "Lannister",
+      "email": "cerseilannister@gmail.com",
+      "phone": "(421)314-2288",
+      "role": "manager",
+      "status": "active",
+      "password": ""
+    },
+    {
+      "id": 3,
+      "firstName": "Jaime",
+      "lastName": "Lannister",
+      "email": "jaimelannister@gmail.com",
+      "phone": "(422)982-6739",
+      "role": "manager",
+      "status": "active",
+      "password": "21.shalom.AT"
+    },
+    {
+      "id": 4,
+      "firstName": "Anya",
+      "lastName": "Stark",
+      "email": "anyastark@gmail.com",
+      "phone": "(921)425-6742",
+      "role": "admin",
+      "status": "Active",
+      "password": ""
+    },
+    {
+      "id": 5,
+      "firstName": "Daenerys",
+      "lastName": "Targaryen",
+      "email": "daenerystargaryen@gmail.com",
+      "phone": "(421)445-1189",
+      "role": "support",
+      "status": "Active",
+      "password": ""
+    },
+    {
+      "id": 6,
+      "firstName": "Ever",
+      "lastName": "Melisandre",
+      "email": "evermelisandre@gmail.com",
+      "phone": "(232)545-6483",
+      "role": "manager",
+      "status": "Active",
+      "password": ""
+    },
+    {
+      "id": 7,
+      "firstName": "Ferrara",
+      "lastName": "Clifford",
+      "email": "ferraraclifford@gmail.com",
+      "phone": "(543)124-0123",
+      "role": "support",
+      "status": "Active",
+      "password": ""
+    },
+    {
+      "id": 8,
+      "firstName": "Rossini",
+      "lastName": "Frances",
+      "email": "rossinifrances@gmail.com",
+      "phone": "(222)444-5555",
+      "role": "support",
+      "status": "Inactive",
+      "password": ""
+    },
+    {
+      "id": 9,
+      "firstName": "Harvey",
+      "lastName": "Roxie",
+      "email": "harveyroxie@gmail.com",
+      "phone": "(444)555-6239",
+      "role": "admin",
+      "status": "Inactive",
+      "password": ""
+    }
+  ],
+  "mockGeneralNews" : [
+    {
+      "data": [
+        {
+          "author": "Edu Lopez",
+          "title": "DICT kicks off series of consultations for new 5-year cybersecurity plan",
+          "description": "The National Cybersecurity Plan (NCSP) for 2023-2028 is expected to promote the formulation of updated cybersecurity guidelines for ICT systems or networks, and the adoption of internationally-recognized policies and frameworks.The post DICT kicks off series of consultations for new 5-year cybersecurity plan appeared first on Newsbytes.PH.",
+          "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+          "source": "newsbytes",
+          "image": "https://img.piri.net/piri/upload/3/2023/2/1/fcb60afb-g30swpk7zmfgfa30vxlvso.jpeg",
+          "category": "general",
+          "language": "en",
+          "country": "ph",
+          "published_at": "2023-02-01T00:58:54+00:00"
+        },
+        {
+          "author": "Ny MaGee",
+          "title": "FDA Warns Against Using Honey Packs for Sexual Enhancement",
+          "description": "*Last year the FDA called out several companies for selling honey-based products that contained drug active ingredients. Millennials are using these honey packs for sexual enhancement without knowing that they can cause some less-than-desirable side effects. Per Live Science: “Four companies selling honey-based products containing unlisted active drug ingredients have received warning letters from the [&#8230;]The post FDA Warns Against Using Honey Packs for Sexual Enhancement appeared first on EURweb.",
+          "url": "https://eurweb.com/2023/fda-warns-against-using-honey-packs-for-sexual-enhancement/",
+          "source": "eurweb",
+          "image":"https://www.greeleytribune.com/wp-content/uploads/2023/01/GRE-L-ZekeAlirezTakesOver-JR-1.jpg?w=1400px&strip=all",
+          "category": "general",
+          "language": "en",
+          "country": "us",
+          "published_at": "2023-02-01T01:00:54+00:00"
+        },
+        {
+          "author": null,
+          "title": "Aday gibi konuştu: Ben Kemal geliyorum",
+          "description": "6’lı Masa’nın adayına ilişkin soru işaretleri devam ederken CHP Genel Başkanı Kemal Kılıçdaroğlu, yine adaylığını işare...",
+          "url": "https://www.yenisafak.com/gundem/aday-gibi-konustu-ben-kemal-geliyorum-4503898",
+          "source": "Yeni Safak",
+          "image": "https://img.piri.net/mnresize/500/-/piri/upload/3/2023/2/1/fcb60afb-g30swpk7zmfgfa30vxlvso.jpeg",
+          "category": "general",
+          "language": "en",
+          "country": "tr",
+          "published_at": "2023-02-01T01:01:38+00:00"
+        },
+        {
+          "author": null,
+          "title": "Avustralya’dan Çanakkale’ye uzanan macera",
+          "description": "Evcil ve sevimli bir koala olan Mannu’nun, Avusturalya’dan Çanakkale’ye uzanan macera dolu serüveni, TRT ortak yapımı “...",
+          "url": "https://www.yenisafak.com/hayat/avustralyadan-canakkaleye-uzanan-macera-4503904",
+          "source": "Yeni Safak",
+          "image": "https://img.piri.net/mnresize/500/-/piri/upload/3/2023/2/1/52540b89-yta6w6ke0va7me2br9kv.jpeg",
+          "category": "general",
+          "language": "en",
+          "country": "tr",
+          "published_at": "2023-02-01T01:01:38+00:00"
+        },
+        {
+          "author": "Bobby Fernandez",
+          "title": "Recent Greeley Central graduate Zeke Alirez realizes ‘dream scenario’ as he takes over his alma mater’s wrestling program",
+          "description": "Recent Greeley Central High School graduate, Zeke Alirez, has taken over the Wildcats' wrestling program, coaching alongside his father, assistant coach Adam Alirez.",
+          "url": "https://www.greeleytribune.com/2023/01/31/recent-greeley-central-graduate-zeke-alirez-realizes-dream-scenario-as-he-takes-over-his-alma-maters-wrestling-program/",
+          "source": "greeleytribune",
+          "image": "https://www.greeleytribune.com/wp-content/uploads/2023/01/GRE-L-ZekeAlirezTakesOver-JR-1.jpg?w=1400px&strip=all",
+          "category": "general",
+          "language": "en",
+          "country": "us",
+          "published_at": "2023-02-01T01:04:43+00:00"
+        },
+        {
+          "author": "Stephen Bartholomeusz",
+          "title": "Danger is lurking despite storm clouds clearing for the global economy",
+          "description": "The IMF thinks this year could be a turning point for the global economy. There are, however, plenty of uncertainties that could derail the recovery.",
+          "url": "https://www.watoday.com.au/business/the-economy/danger-is-lurking-despite-storm-clouds-clearing-for-the-global-economy-20230201-p5ch02.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+          "source": "watoday",
+          "image": "https://static.ffx.io/images/$zoom_0.24236718518518516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_76%2C$y_43/t_crop_custom/q_86%2Cf_jpg/f82295e225289232be87d0faa53f39d23acd7070",
+          "category": "general",
+          "language": "en",
+          "country": "au",
+          "published_at": "2023-02-01T01:00:13+00:00"
+        },
+        {
+          "author": "EUR Editor",
+          "title": "USD/JPY portrays pre-Fed anxiety, BoJ’s struggle to defend JGB yields around 130.00",
+          "description": "NZD/USD has dropped following the New Zealand jobs data. The data is not as strong as the Reserve Bank of New Zealand expected and hence the sell-off in the Kiwi ahead of critical events for the &#8230; Read Full Story at source (may require registration)The post USD/JPY portrays pre-Fed anxiety, BoJ’s struggle to defend JGB yields around 130.00 appeared first on ForexTV.",
+          "url": "https://forextv.com/euro-eur/usd-jpy-portrays-pre-fed-anxiety-bojs-struggle-to-defend-jgb-yields-around-130-00/",
+          "source": "forextv",
+          "image": null,
+          "category": "general",
+          "language": "en",
+          "country": "us",
+          "published_at": "2023-02-01T00:59:13+00:00"
+        },
+        {
+          "author": "Nathan Jolly",
+          "title": "Harvey Norman Partners With BPS Global For $14M Sydney Warehouse",
+          "description": "Harvey Norman has teamed with BPS Global Australia for a new $14 million warehouse that leans heavily on automation. The new 18,000 square metre, purpose-built facility sits at Crossroads Logistics Centre, Casula in Sydney’s southwest. It will store more than 60,000 SKUs for Harvey Norman Commercial Division (the trade-only arm), some 40,000 more than its... Read More",
+          "url": "https://www.channelnews.com.au/harvey-norman-partners-with-bps-global-for-14m-sydney-warehouse/",
+          "source": "channelnews",
+          "image": "https://www.channelnews.com.au/wp-content/uploads/2023/02/hnorman.png",
+          "category": "general",
+          "language": "en",
+          "country": "au",
+          "published_at": "2023-02-01T01:03:26+00:00"
+        },
+        {
+          "author": "USA TODAY HSS Staff",
+          "title": "Watch National Basketball Games of the Week on the NFHS Network",
+          "description": "Watch National Basketball Games of the Week on the NFHS Network",
+          "url": "https://usatodayhss.com/2023/national-basketball-game-of-the-week-basha-perry-nfhs-network",
+          "source": "Usa Today High School Sports",
+          "image": "https://usatodayhss.com/wp-content/uploads/sites/96/2023/01/Screen-Shot-2023-01-31-at-4.51.05-PM.png",
+          "category": "sports",
+          "language": "en",
+          "country": "us",
+          "published_at": "2023-02-01T01:03:57+00:00"
+        },
+        {
+          "author": "Chelsea Ritschel",
+          "title": "Videos of Anne Hathaway dancing during Valentino party go viral: ‘Mesmerising’",
+          "description": "‘How do I party with Anne Hathaway?’ one fan asks",
+          "url": "https://www.independent.co.uk/life-style/anne-hathaway-dancing-paris-fashion-week-video-b2273245.html",
+          "source": "Independent",
+          "image": "https://static.independent.co.uk/2023/01/27/18/anne.jpg?width=1200&auto=webp",
+          "category": "general",
+          "language": "en",
+          "country": "gb",
+          "published_at": "2023-02-01T01:02:18+00:00"
+        },
+        {
+          "author": "Santa Maria Hose",
+          "title": "Greybull enters pursuit of Britishvolt",
+          "description": "Buyout group met battery start-up’s leaders on Monday ahead of bid deadline",
+          "url": "https://www.ft.com/content/8c751de2-9a64-4d69-a340-46e546363cf5",
+          "source": "Financial Times",
+          "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd017b019-483a-45fa-8997-a8fb3e713e25.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "category": "business",
+          "language": "en",
+          "country": "us",
+          "published_at": "2023-02-01T01:00:23+00:00"
+        },
+        {
+          "author": "Charean Williams",
+          "title": "Texans request permission to interview Bobby Slowik",
+          "description": "The Texans have requested to interview 49ers passing game coordinator Bobby Slowik for their vacant offensive coordinator job under new head coach DeMeco Ryans, Ian Rapoport of NFL Media reports. Slowik joined the 49ers in 2017 as a defense quality control coach, a position he held two seasons. He became an offensive assistant in 2019. [more]",
+          "url": "https://profootballtalk.nbcsports.com/2023/01/31/texans-request-permission-to-interview-bobby-slowik/",
+          "source": "profootballtalk",
+          "image": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/03/GettyImages-1237214220-e1647857938337.jpg?w=493&h=277&crop=1",
+          "category": "general",
+          "language": "en",
+          "country": "us",
+          "published_at": "2023-02-01T01:43:43+00:00"
+        },
+        {
+          "author": "Cindy Gordon, Contributor",
+          "title": "AI Ethical Risks In the Music Industry Are Accelerating And We Are Not Ready For What Is Coming Our Way",
+          "description": "This article reinforces that the AI Ethical Risks in the music industry are accelerating and we are not ready for what is coming our way.",
+          "url": "https://www.forbes.com/sites/cindygordon/2023/01/31/ai-ethical-risks-in-the-music-industry-are-accelerating-and-we-are-not-ready-for-what-is-coming-our-way/",
+          "source": "Leadership",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/63d84b38429f596655787f4f/0x0.jpg?width=960",
+          "category": "general",
+          "language": "en",
+          "country": "ng",
+          "published_at": "2023-02-01T01:48:16+00:00"
+        },
+        {
+          "author": "Allie Griffin",
+          "title": "2 monkeys missing from Dallas Zoo found alive in abandoned home; person of interest sought",
+          "description": "The small, white-bearded monkeys were brought back to their habitat and will be evaluated by zoo veterinarians, the Dallas Zoo said in a statement.",
+          "url": "https://nypost.com/2023/01/31/2-monkeys-missing-from-dallas-zoo-found-in-abandoned-home/",
+          "source": "New York Post",
+          "image": "https://nypost.com/wp-content/uploads/sites/2/2023/01/dallas-monkeys-comp.jpg?quality=90&strip=all",
+          "category": "general",
+          "language": "en",
+          "country": "us",
+          "published_at": "2023-02-01T01:47:13+00:00"
+        },
+        {
+          "author": "GABRIELLE MCCULLOCH",
+          "title": "Auckland schools allowed to open on Wednesday, Ministry of Education says",
+          "description": "Principals are pleased schools can open their doors again, but say it will \"create complications\".",
+          "url": "https://www.stuff.co.nz/national/education/300797055/auckland-schools-allowed-to-open-on-wednesday-ministry-of-education-says.html",
+          "source": "Stuff.co.nz",
+          "image": "https://resources.stuff.co.nz/content/dam/images/4/z/2/0/6/v/image.related.StuffThumbnail.90x60.4z34hr.png/1675216061568.jpg",
+          "category": "general",
+          "language": "en",
+          "country": "nz",
+          "published_at": "2023-02-01T01:47:41+00:00"
+        },
+        {
+          "author": "Sofia Geraghty",
+          "title": "FIFA Criticised For Allowing Saudi Sponsorship Of Women’s World Cup",
+          "description": "Former Socceroo and human rights activist Craig Foster has criticised Fifa for accepting Visit Saudi as a sponsor of the...",
+          "url": "https://www.bandt.com.au/fifa-criticised-for-allowing-saudi-sponsorship-of-womens-world-cup/",
+          "source": "bandt",
+          "image": "https://www.bandt.com.au/information/uploads/2023/01/adidas-fifa-womens-world-cup-ball-230x153.jpg",
+          "category": "general",
+          "language": "en",
+          "country": "au",
+          "published_at": "2023-02-01T01:47:25+00:00"
+        },
+        {
+          "author": "Sofia Geraghty",
+          "title": "Utar offers upskilling, reskilling programmes",
+          "description": "KUALA LUMPUR (Feb 1): Universiti Tunku Abdul Rahman (Utar) is now catering to those who need extra knowledge and skills through its Micro Credential Courses (MCC) and Accreditation of Prior Experiential Learning (APEL (C)) for credit award. This is because the university opines that learning continues, whether at school, work or home, and in some [...]",
+          "url": "https://www.theborneopost.com/2023/02/01/utar-offers-upskilling-reskilling-programmes/",
+          "source": "theborneopost",
+          "image": "https://www.theborneopost.com/newsimages/2023/02/UTAR-CAMPUS.jpg",
+          "category": "general",
+          "language": "en",
+          "country": "us",
+          "published_at": "2023-02-01T01:46:00+00:00"
+        },
+        {
+          "author": "News Channel 3-12",
+          "title": "Telemundo to begin broadcasting on new station in Santa Barbara, San Luis Obispo counties",
+          "description": "Beginning Wednesday, February 1, Telemundo will have a new home on the Central Coast.The post Telemundo to begin broadcasting on new station in Santa Barbara, San Luis Obispo counties appeared first on News Channel 3-12.",
+          "url": "https://keyt.com/news/2023/01/31/telemundo-to-begin-broadcasting-on-new-station-in-santa-barbara-san-luis-obispo-counties/",
+          "source": "keyt",
+          "image":"https://keyt.b-cdn.net/2023/01/Screen-Shot-2023-01-31-at-5.44.05-PM.png",
+          "category": "general",
+          "language": "en",
+          "country": "us",
+          "published_at": "2023-02-01T01:49:43+00:00"
+        },
+        {
+          "author": "News on the Net",
+          "title": "World Economic Forum has setup a 'Smart City Alliance' to establish 'Universal Guidelines'",
+          "description": "",
+          "url": "https://canadafreepress.com/article/140464",
+          "source": "canadafreepress",
+          "image":"https://digitalhub.fifa.com/transform/41eab47c-2f51-48b7-bb23-ec2b98ac449f/World-Economic-Forum-Annual-Meeting",
+          "category": "general",
+          "language": "en",
+          "country": "us",
+          "published_at": "2023-02-01T01:46:17+00:00"
+        },
+        {
+          "author": "Esther James Pam",
+          "title": "Buried Under the Stars",
+          "description": "Many Jewish veterans of WWII were mistakenly given Christian gravestones. Operation Benjamin is trying to fix that.",
+          "url": "https://seekingalpha.com/article/4574077-swedbank-ab-publ-swdbf-q4-2022-earnings-call-transcript?source=feed_all_articles",
+          "source": "Seeking Alpha",
+          "image": "https://tablet-mag-images.b-cdn.net/production/22181837bd3d8f1ffe7eadb8eec8cbfaceda99cd-3008x2000.jpg?auto=format",
+          "category": "general",
+          "language": "en",
+          "country": "us",
+          "published_at": "2023-02-01T01:48:05+00:00"
+        },
+        {
+          "author": "Esther James Pam",
+          "title": "Foreign Minister Penny Wong urges UK to confront its colonial past",
+          "description": "Penny Wong evokes her family's experience of British colonialism in foreign policy speech",
+          "url": "https://www.brisbanetimes.com.au/national/foreign-minister-penny-wong-urges-uk-to-confront-its-colonial-past-20230201-p5ch4s.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "source": "Brisbane Times",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/c2933c07f414798bb8d1c6eac3e83d53f3250fe4",
+          "category": "general",
+          "language": "en",
+          "country": "au",
+          "published_at": "2023-02-01T02:13:30+00:00"
+        },
+        {
+          "author": "Better Business Bureau",
+          "title": "BBB Tip: How to choose a tax preparer",
+          "description": "This year, taxpayers get a couple of extra days to file their returns as the deadline falls on April 18, 2023. For many people, major life changes, business ownership, or simply a lack of knowledge about the ever-changing tax laws make finding a trustworthy tax preparer a good idea. That said, not all tax preparers [&#8230;]",
+          "url": "https://www.fortmorgantimes.com/2023/01/31/bbb-tip-how-to-choose-a-tax-preparer/",
+          "source": "fortmorgantimes",
+          "image": "https://www.fortmorgantimes.com/wp-content/uploads/2023/01/Untitled-presentation-2.jpg?w=1400px&strip=all",
+          "category": "general",
+          "language": "en",
+          "country": "us",
+          "published_at": "2023-02-01T02:15:26+00:00"
+        },
+        {
+          "author": "Better Business Bureau",
+          "title": "BBB Tip: How to choose a tax preparer",
+          "description": "This year, taxpayers get a couple of extra days to file their returns as the deadline falls on April 18, 2023. For many people, major life changes, business ownership, or simply a lack of knowledge about the ever-changing tax laws make finding a trustworthy tax preparer a good idea. That said, not all tax preparers [&#8230;]",
+          "url": "https://www.journal-advocate.com/2023/01/31/bbb-tip-how-to-choose-a-tax-preparer/",
+          "source": "journal-advocate",
+          "image": "https://www.journal-advocate.com/wp-content/uploads/2023/01/Untitled-presentation-2.jpg?w=1400px&strip=all",
+          "category": "general",
+          "language": "en",
+          "country": "us",
+          "published_at": "2023-02-01T02:15:26+00:00"
+        },
+        {
+          "author": "Jane Moh",
+          "title": "Bukit Assek rep urges schools to encourage creativity among students",
+          "description": "SIBU (Feb 1): Bukit Assek assemblyman Joseph Chieng has urged schools to always encourage creativity among students. Chieng said as future leaders of the country, the youths must learn to be creative and innovative in order to build a strong leadership character. He added that creativity would lead people to see a bigger picture in [...]",
+          "url": "https://www.theborneopost.com/2023/02/01/bukit-assek-rep-urges-schools-to-encourage-creativity-among-students/",
+          "source": "theborneopost",
+          "image": "https://www.theborneopost.com/newsimages/2023/02/Sbw-bp010223-jm-gallery-p1.jpg",
+          "category": "general",
+          "language": "en",
+          "country": "us",
+          "published_at": "2023-02-01T02:17:59+00:00"
+        },
+        {
+          "author": "LizA",
+          "title": "SUPER BOWL SUNDAY: LAKE JENNINGS OFFERS FREE BOAT LAUNCHES",
+          "description": "LakesideLakeside eventsLake JenningsLake Jennings eventsSuper Bowl SundaySuper Bowl eventsEventsFestivals of the MonthCommunitiesSantee/LakesideEast County News ServiceJanuary 31, 2023 (Lakeside) – If you’re not a fan of football, Lake Jennings is offering you a quiet alternative to cheer about: on Super Bowl Sunday, February 12, the lake is offering free boat launches. If you do want to watch the big game, you can take in some early morning fishing before kick-off",
+          "url": "https://www.eastcountymagazine.org/super-bowl-sunday-lake-jennings-offers-free-boat-launches",
+          "source": "eastcountymagazine",
+          "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0206%2Fnfl_barnwell%2Dsb%2Dpreview_16x9.jpg",
+          "category": "general",
+          "language": "en",
+          "country": "us",
+          "published_at": "2023-02-01T02:11:29+00:00"
+        }
+      ]
+    }
+  ],
+  "mockSportNews" : [
+    {
+      "data": [
+        {
+          "title": "Tottenham set sights on cut-price deal for Koch",
+          "description": "Football Insider understands that Tottenham are closely monitoring Robin Koch and are looking at a cut-price deal following Leeds United relegation",
+          "content": "By Wayne Veysey 29th May, 2023 | 8:30am\nSources: Tottenham set sights on cut-price deal for Koch\nTottenham are setting sights on a cut-price deal for Robin Koch following Leeds United’s relegation, sources have told Football Insider.\nSpurs are in the... [1578 chars]",
+          "url": "https://www.footballinsider247.com/sources-tottenham-set-sights-on-cut-price-deal-for-koch/",
+          "image": "https://www.footballinsider247.com/static/uploads/1/2023/03/ADVANCED-TALKS-2023-03-27T192448.804.jpg",
+          "publishedAt": "2023-05-29T07:30:00Z",
+          "source": {
+            "name": "Football Insider",
+            "url": "https://www.footballinsider247.com"
+          }
+        },
+        {
+          "title": "Manchester United player ratings as Tyrell Malacia and David de Gea good vs Fulham",
+          "description": "Man Utd beat Fulham in their final Premier League game of the season and here are how the players rated.",
+          "content": "Something went wrong, please try again later.\nInvalid email Something went wrong, please try again later.\nNEW - Sign up for exclusive insights and views in our brand new newsletter from chief Manchester United writer Samuel Luckhurst\nDavid de Gea\nSav... [2162 chars]",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/man-united-fulham-player-ratings-27010500",
+          "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article27011228.ece/ALTERNATES/s1200/0_GettyImages-1494048518.jpg",
+          "publishedAt": "2023-05-29T07:00:00Z",
+          "source": {
+            "name": "Manchester Evening News",
+            "url": "https://www.manchestereveningnews.co.uk"
+          }
+        },
+        {
+          "title": "Leeds United deal for McKennie to collapse after huge development",
+          "description": "Football Insider understands that the Leeds United deal for Weston McKennie will collapse following their relegation from the Premier League",
+          "content": "By Pete O'Rourke, Transfer Correspondent 29th May, 2023 | 7:45am\nSources: Leeds United deal for Weston McKennie collapses - it's 'financially impossible'\nLeeds United’s deal for Weston McKennie has collapsed following their relegation from the Premie... [1428 chars]",
+          "url": "https://www.footballinsider247.com/sources-leeds-united-deal-for-weston-mckennie-collapses-its-financially-impossible/",
+          "image": "https://www.footballinsider247.com/static/uploads/1/2023/01/Leeds-breaking-news-1600-×-1200px.jpg",
+          "publishedAt": "2023-05-29T06:45:00Z",
+          "source": {
+            "name": "Football Insider",
+            "url": "https://www.footballinsider247.com"
+          }
+        },
+        {
+          "title": "Premier League | Leicester's fairy tale ends as club relegated 7 years after famous title win; Everton survives",
+          "description": "A roundup of the final day of Premier League 2022-23 season, which included Leciester City’s relegation, Everton’s survival, Erling Haaland’s golden boot and Manchester United finishing third",
+          "content": "May 29, 2023 12:15 pm | Updated 12:15 pm IST - Leicester\nSeven years after the most improbable Premier League title triumph of all, Leicester was relegated from English football's top division while Everton pulled off another last-day escape to exten... [5899 chars]",
+          "url": "https://www.thehindu.com/sport/football/premier-league-leicesters-fairy-tale-ends-as-club-relegated-7-years-after-famous-title-win-everton-survives/article66907033.ece",
+          "image": "https://th-i.thgim.com/public/incoming/a5l51p/article66907061.ece/alternates/LANDSCAPE_1200/2023-05-28T173203Z_463761297_UP1EJ5S1CPE7O_RTRMADP_3_SOCCER-ENGLAND-LEI-WHU-REPORT.JPG",
+          "publishedAt": "2023-05-29T06:45:00Z",
+          "source": {
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com"
+          }
+        },
+        {
+          "title": "Frank Lampard slams Chelsea's 'dropped standards' and sends Mauricio Pochettino warning",
+          "description": "Stamford Bridge legend Lampard, who returned as interim manager when Graham Potter was fired in April, gave a withering assessment.",
+          "content": "Frank Lampard slammed Chelsea's 'dropped standards' as they finished in the Premier League bottom half for the first time since 1995-96.\nThe Blues finished 12th in the final reckoning following Sunday's 1-1 draw with Newcastle United and the last tim... [3972 chars]",
+          "url": "https://www.dailymail.co.uk/sport/football/article-12135405/Frank-Lampard-slams-Chelseas-dropped-standards-sends-Mauricio-Pochettino-warning.html",
+          "image": "https://i.dailymail.co.uk/1s/2023/05/29/08/71522363-0-image-a-2_1685344447601.jpg",
+          "publishedAt": "2023-05-29T06:33:33Z",
+          "source": {
+            "name": "Daily Mail",
+            "url": "https://www.dailymail.co.uk"
+          }
+        },
+        {
+          "title": "Winners and losers from the 2023 Indy 500",
+          "description": "Star underdogs, Josef Newgarden and Penske had a lot to celebrate after the 2023 Indy 500. But many drivers and teams had a lot to rue",
+          "content": "Five big crashes, 14 different leaders, 39 lead changes, a controversial finish and a first-time winner in Josef Newgarden created a fascinating 2023 Indianapolis 500.\nAs you may expect with a 200-mile race, there’s a lot to unpack and many drivers t... [8174 chars]",
+          "url": "https://the-race.com/indycar/winners-and-losers-from-the-2023-indy-500/",
+          "image": "https://storage.googleapis.com/the-race-com.appspot.com/1/2023/05/Rinus20VeeKay20spins20-20107th20Running20of20the20Indianapolis2050020Presented20By20Gainbridge20-20By_20Walt20Kuhn_LargeImageWithoutWatermark_m82937-copy-1024x682.jpg",
+          "publishedAt": "2023-05-29T06:29:04Z",
+          "source": {
+            "name": "The Race",
+            "url": "https://the-race.com"
+          }
+        },
+        {
+          "title": "De Villiers names best player of IPL 2023, it’s not Shubman Gill or Virat Kohli",
+          "description": "Former RCB player AB de Villiers picked his favourite player of IPL 2023 and to everyone's surprise it wasn't Shubman Gill or Virat Kohli | Cricket",
+          "content": "Although Rajasthan Royals failed to qualify for the IPL 2023 playoffs, the franchise saw some splendid cricket from Yashvasvi Jaiswal. The young opener finished the campaign as RR's highest run-scorer and is also currently fourth in the Orange Cap ra... [1701 chars]",
+          "url": "https://www.hindustantimes.com/cricket/by-a-long-margin-for-sure-ab-de-villiers-names-favourite-player-of-ipl-2023-and-it-s-not-shubman-gill-or-virat-kohli-101685341115752.html",
+          "image": "https://www.hindustantimes.com/ht-img/img/2023/05/29/1600x900/PTI04-02-2023-000206B-0_1685341215687_1685341256226.jpg",
+          "publishedAt": "2023-05-29T06:26:27Z",
+          "source": {
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com"
+          }
+        },
+        {
+          "title": "Mercedes’ excited reaction to seeing the Red Bull RB19’s floor",
+          "description": "Mercedes admitted that every F1 team will study the photographs of Red Bull’s exposed floor, after it was hoisted into the air for all to see.",
+          "content": "Both Red Bull and Mercedes saw their cars lifted by a crane over the F1 Monaco Grand Prix weekend, when Sergio Perez and Lewis Hamilton came to a halt.\nThe greater significance was that the mystery surrounding the floor of the RB19 - the most dominan... [1162 chars]",
+          "url": "https://www.crash.net/f1/news/1027173/1/mercedes-excited-reaction-seeing-red-bull-rb19-s-floor",
+          "image": "https://cdn.crash.net/styles/large_article/s3/pa/3343693.0064.jpg?itok=r5tssg06",
+          "publishedAt": "2023-05-29T06:10:07Z",
+          "source": {
+            "name": "Crash",
+            "url": "https://www.crash.net"
+          }
+        },
+        {
+          "title": "Mechanic Michael Hayes life support to be turned off after coward punch",
+          "description": "A mechanic who was tragically coward punched north of Brisbane is set to have his life support turned off.",
+          "content": "A mechanic who was tragically coward punched north of Brisbane is set to have his life support turned off.\nThirty-nine-year-old Michael Hayes was assaulted after leaving Destino Wine and Bar — at Sanctuary Cove in the small fishing village of Hope Is... [2313 chars]",
+          "url": "https://www.news.com.au/national/queensland/crime/mechanic-michael-hayes-life-support-to-be-turned-off-after-coward-punch/news-story/e095332703c485a1faf478436816ca40",
+          "image": "https://content.api.news/v3/images/bin/b2deb801dd5c24748d1f9debad7d656c",
+          "publishedAt": "2023-05-29T06:08:41Z",
+          "source": {
+            "name": "news.com.au",
+            "url": "https://www.news.com.au"
+          }
+        },
+        {
+          "title": "Sam Lammers and Cyriel Dessers 'on' Rangers transfer watchlist as Serie A strikers fit Michael Beale signing blueprint",
+          "description": "Lammers spent second half of season on loan at Sampdoria from Atalanta but were relegated along with Desser's Cremonese.",
+          "content": "Serie A strike stars Sam Lammers and Cyriel Dessers are under Rangers’ watchful eye this summer, according to a report.\nLammers spent the second part of the season on loan at Sampdoria from Atalanta, but couldn’t fire Il Blucerchiati to safety, with ... [1806 chars]",
+          "url": "https://www.dailyrecord.co.uk/sport/football/football-transfer-news/sam-lammers-cyriel-dessers-on-30100559",
+          "image": "https://i2-prod.dailyrecord.co.uk/incoming/article30100564.ece/ALTERNATES/s1200/0_GettyImages-1250896584.jpg",
+          "publishedAt": "2023-05-29T06:08:01Z",
+          "source": {
+            "name": "Daily Record",
+            "url": "https://www.dailyrecord.co.uk"
+          }
+        }
+      ]
+    }
+  ],
+  "mockBusinessNews" : [
+    {
+      "data":[
+        {
+          "author": "Hugh Son",
+          "title": "JPMorgan Chase cut about 500 jobs this week, including tech and operations roles",
+          "description": "The cuts were spread across the New York-based firm’s main divisions of retail and commercial banking, asset and wealth management and its corporate and investment bank, said the people, who declined to be identified speaking about personnel matters.",
+          "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+          "source": "newsbytes",
+          "image": "https://image.cnbcfm.com/api/v1/image/107225948-1681688505683-gettyimages-1246335237-JPMORGAN_CHASE_HQ.jpeg?v=1685124733&w=929&h=523&ffmt=webp&vtcrop=y",
+          "category": "general",
+          "language": "en",
+          "country": "ph",
+          "published_at": "2023-02-01T00:58:54+00:00"
+        },
+        {
+          "author": "Sam Decz",
+          "title": "What’s in the debt ceiling deal struck by Biden and McCarthy?",
+          "description": "President Joe Biden and Republican House Speaker Kevin McCarthy on Sunday signed off on an agreement to temporarily suspend the debt ceiling and cap some federal spending in order to prevent a U.S. debt default.",
+          "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+          "source": "newsbytes",
+          "image": "https://image.cnbcfm.com/api/v1/image/107247627-1685331257785-gettyimages-1258257066-BIDEN_DEBT_CEILING.jpeg?v=1685334117&h=150&w=200&ffmt=webp",
+          "category": "general",
+          "language": "en",
+          "country": "ph",
+          "published_at": "2023-02-01T00:58:54+00:00"
+        },
+        {
+          "author": "greg samdy",
+          "title": "Ford EVs will use Tesla charging tech in surprise partnership between rivals",
+          "description": "While Tesla still dominates the EV sector by far, Ford came in second in fully electric vehicle sales in the U.S. last year, notching sales of 61,575 electric vehicles.",
+          "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+          "source": "newsbytes",
+          "image": "https://image.cnbcfm.com/api/v1/image/107246892-1685044780316-farley_musk2.jpg?v=1685118320&w=410&h=212&ffmt=webp&vtcrop=y",
+          "category": "general",
+          "language": "en",
+          "country": "ph",
+          "published_at": "2023-02-01T00:58:54+00:00"
+        },
+        {
+          "author": "Diana olick",
+          "title": "Why major commercial real estate firms are joining resources to recruit Black student-athletes",
+          "description": "While Tesla still dominates the EV sector by far, Ford came in second in fully electric vehicle sales in the U.S. last year, notching sales of 61,575 electric vehicles.",
+          "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+          "source": "newsbytes",
+          "image": "https://image.cnbcfm.com/api/v1/image/107247460-1685129172765-diana_IMG_3902.jpg?v=1685188801&w=884&h=442&ffmt=webp&vtcrop=y",
+          "category": "general",
+          "language": "en",
+          "country": "ph",
+          "published_at": "2023-02-01T00:58:54+00:00"
+        },
+        {
+          "author": "Dan Mangan",
+          "title": "JPMorgan says Jeffrey Epstein paid tuition for kids of Virgin Islands governor",
+          "description": "Those tuition payments, whose duration and amounts were not revealed, allowed then-Gov. John de Jongh Jr. “to funnel additional money to his political campaigns,” JPMorgan said in the filing in U.S. District Court in Manhattan.",
+          "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+          "source": "newsbytes",
+          "image": "https://image.cnbcfm.com/api/v1/image/107246760-1685033645487-AP735335420306.jpg?v=1685044073&w=929&h=523&ffmt=webp&vtcrop=y",
+          "category": "general",
+          "language": "en",
+          "country": "ph",
+          "published_at": "2023-02-01T00:58:54+00:00"
+        },
+        {
+          "author": "Hugh Son",
+          "title": "JPMorgan Chase cut about 500 jobs this week, including tech and operations roles",
+          "description": "The cuts were spread across the New York-based firm’s main divisions of retail and commercial banking, asset and wealth management and its corporate and investment bank, said the people, who declined to be identified speaking about personnel matters.",
+          "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+          "source": "newsbytes",
+          "image": "https://image.cnbcfm.com/api/v1/image/107225948-1681688505683-gettyimages-1246335237-JPMORGAN_CHASE_HQ.jpeg?v=1685124733&w=929&h=523&ffmt=webp&vtcrop=y",
+          "category": "general",
+          "language": "en",
+          "country": "ph",
+          "published_at": "2023-02-01T00:58:54+00:00"
+        },
+        {
+          "author": "Sam Decz",
+          "title": "What’s in the debt ceiling deal struck by Biden and McCarthy?",
+          "description": "President Joe Biden and Republican House Speaker Kevin McCarthy on Sunday signed off on an agreement to temporarily suspend the debt ceiling and cap some federal spending in order to prevent a U.S. debt default.",
+          "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+          "source": "newsbytes",
+          "image": "https://image.cnbcfm.com/api/v1/image/107247627-1685331257785-gettyimages-1258257066-BIDEN_DEBT_CEILING.jpeg?v=1685334117&h=150&w=200&ffmt=webp",
+          "category": "general",
+          "language": "en",
+          "country": "ph",
+          "published_at": "2023-02-01T00:58:54+00:00"
+        },
+        {
+          "author": "greg samdy",
+          "title": "Ford EVs will use Tesla charging tech in surprise partnership between rivals",
+          "description": "While Tesla still dominates the EV sector by far, Ford came in second in fully electric vehicle sales in the U.S. last year, notching sales of 61,575 electric vehicles.",
+          "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+          "source": "newsbytes",
+          "image": "https://image.cnbcfm.com/api/v1/image/107246892-1685044780316-farley_musk2.jpg?v=1685118320&w=410&h=212&ffmt=webp&vtcrop=y",
+          "category": "general",
+          "language": "en",
+          "country": "ph",
+          "published_at": "2023-02-01T00:58:54+00:00"
+        },
+        {
+          "author": "Diana olick",
+          "title": "Why major commercial real estate firms are joining resources to recruit Black student-athletes",
+          "description": "While Tesla still dominates the EV sector by far, Ford came in second in fully electric vehicle sales in the U.S. last year, notching sales of 61,575 electric vehicles.",
+          "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+          "source": "newsbytes",
+          "image": "https://image.cnbcfm.com/api/v1/image/107247460-1685129172765-diana_IMG_3902.jpg?v=1685188801&w=884&h=442&ffmt=webp&vtcrop=y",
+          "category": "general",
+          "language": "en",
+          "country": "ph",
+          "published_at": "2023-02-01T00:58:54+00:00"
+        },
+        {
+          "author": "Dan Mangan",
+          "title": "JPMorgan says Jeffrey Epstein paid tuition for kids of Virgin Islands governor",
+          "description": "Those tuition payments, whose duration and amounts were not revealed, allowed then-Gov. John de Jongh Jr. “to funnel additional money to his political campaigns,” JPMorgan said in the filing in U.S. District Court in Manhattan.",
+          "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+          "source": "newsbytes",
+          "image": "https://image.cnbcfm.com/api/v1/image/107246760-1685033645487-AP735335420306.jpg?v=1685044073&w=929&h=523&ffmt=webp&vtcrop=y",
+          "category": "general",
+          "language": "en",
+          "country": "ph",
+          "published_at": "2023-02-01T00:58:54+00:00"
+        },
+        {
+          "author": "Dan Saint",
+          "title": "Not just Disney: DeSantis brings a history of business battles to the 2024 campaign",
+          "description": "Florida Gov. Ron DeSantis officially launched his presidential campaign Wednesday, putting his blend of pro-business conservativism and culture-war populism to the test at the national level.",
+          "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+          "source": "newsbytes",
+          "image": "https://image.cnbcfm.com/api/v1/image/107229367-1682096267592-gettyimages-1483885619-_m010495_l0yucji6.jpeg?v=1684949820&w=929&h=523&ffmt=webp&vtcrop=y",
+          "category": "general",
+          "language": "en",
+          "country": "ph",
+          "published_at": "2023-02-01T00:58:54+00:00"
+        },
+        {
+          "author": "Dan Saint",
+          "title": "Here’s what Pfizer and Moderna say is next for their Covid vaccines",
+          "description": "The two pharmaceutical companies, whose Covid vaccines have become household names, are ushering in a new era for their shots that will elevate the role they play in protecting public health, but also simplify what people need to do to coexist with the virus.",
+          "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+          "source": "newsbytes",
+          "image": "https://image.cnbcfm.com/api/v1/image/107142629-1666974887549-gettyimages-1422319278-0j4a3477_4d167fe1-a2cb-4fab-8edc-a16e58f2f279.jpeg?v=1684772534&w=929&h=523&ffmt=webp&vtcrop=y",
+          "category": "general",
+          "language": "en",
+          "country": "ph",
+          "published_at": "2023-02-01T00:58:54+00:00"
+        }
+        
+      ]
+    }
+  ],
+  "mockScienceNews" : [
+    {
+      "data":[
+        
+          {
+            "author": "Hugh Son",
+            "title": "Jump, bend, and roll: The rise of bioinspired robots",
+            "description": "Jump, bend, and roll: The rise of bioinspired robots. Some scientists and engineers have turned to nature to inspire the design of robots capable of mimicking the abilities of plants and so on.",
+            "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+            "source": "newsbytes",
+            "image": "https://www.pnas.org/do/10.1073/pc.bioinspired-robots/full/pc.2023-04-03-1680533466650.jpg",
+            "category": "general",
+            "language": "en",
+            "country": "ph",
+            "published_at": "2023-02-01T00:58:54+00:00"
+          },
+          {
+            "author": "Hugh Son",
+            "title": "Cooperative fishing between humans and dolphins",
+            "description": "Cooperative fishing between humans and dolphins Mauricio samtor Damien Farine and Fabio Daura-Jorge describe an uncommon partnership between humans and bottlenose dolphins",
+            "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+            "source": "newsbytes",
+            "image": "https://www.pnas.org/do/10.1073/pc.cooperative-fishing/full/pc.2023-05-08-1683554558520.jpg",
+            "category": "general",
+            "language": "en",
+            "country": "ph",
+            "published_at": "2023-02-01T00:58:54+00:00"
+          },
+          {
+            "author": "Charean Williams",
+            "title": "How vertebrates acquired a gene for vision",
+            "description": "Welcome to Science Sessions, the podcast of the Proceedings of the National Academy of Sciences, where we connect you with Academy members, researchers, and policymakers. Join us as we explore the stories behind the science. I’m Paul Gabrielsen.",
+            "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+            "source": "newsbytes",
+            "image": "https://www.pnas.org/do/10.1073/pc.26889717/full/pc.2023-05-22-1684760401047.jpg",
+            "category": "general",
+            "language": "en",
+            "country": "ph",
+            "published_at": "2023-02-01T00:58:54+00:00"
+          },
+          {
+            "author": "SCIENCE SESSIONS PODCAST ",
+            "title": "Revisiting the history of animal extinctions",
+            "description": "Welcome to Science Sessions, the podcast of the Proceedings of the National Academy of Sciences, where we connect you with Academy members, researchers, and policymakers. Join us as we explore the stories behind the science. I’m Matthew Hardcastle, and I’m speaking with Scott Evans of Florida State University in Tallahassee, Florida",
+            "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+            "source": "newsbytes",
+            "image": "https://www.pnas.org/do/10.1073/pc.25749279/full/podcast.2023-01-30-1675087200797.jpg",
+            "category": "general",
+            "language": "en",
+            "country": "ph",
+            "published_at": "2023-02-01T00:58:54+00:00"
+          },
+          {
+            "author": "Charean samballs",
+            "title": "The music of Mesozoic bush crickets",
+            "description": "Welcome to Science Sessions, the podcast of the Proceedings of the National Academy of Sciences, where we connect you with Academy members, researchers, and policymakers. Join us as we explore the stories behind the science. I’m Paul Gabrielsen.",
+            "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+            "source": "newsbytes",
+            "image": "https://www.pnas.org/do/10.1073/pc.25597404/full/podcast.2023-01-16-1673877600883.jpg",
+            "category": "general",
+            "language": "en",
+            "country": "ph",
+            "published_at": "2023-02-01T00:58:54+00:00"
+          },
+          {
+            "author": "McGrath jobs",
+            "title": "How a neural network taught itself chess",
+            "description": " So at a high level, the way that it learns is essentially a great deal of trial and error. And at the start it’s mostly error. The moves are very close to random, and then eventually it will win some games. And that will provide some training signal. What’s going on is AlphaZero learns by essentially playing by itself. It’s taking both sides of the chess game.",
+            "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+            "source": "newsbytes",
+            "image": "https://www.pnas.org/do/10.1073/pc.25492578/full/podcast-2023-01-03-1672762580207.jpg",
+            "category": "general",
+            "language": "en",
+            "country": "ph",
+            "published_at": "2023-02-01T00:58:54+00:00"
+          },
+          {
+            "author": "Hugh Son",
+            "title": "Jump, bend, and roll: The rise of bioinspired robots",
+            "description": "Jump, bend, and roll: The rise of bioinspired robots. Some scientists and engineers have turned to nature to inspire the design of robots capable of mimicking the abilities of plants and so on.",
+            "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+            "source": "newsbytes",
+            "image": "https://www.pnas.org/do/10.1073/pc.bioinspired-robots/full/pc.2023-04-03-1680533466650.jpg",
+            "category": "general",
+            "language": "en",
+            "country": "ph",
+            "published_at": "2023-02-01T00:58:54+00:00"
+          },
+          {
+            "author": "Hugh Son",
+            "title": "Cooperative fishing between humans and dolphins",
+            "description": "Cooperative fishing between humans and dolphins Mauricio samtor Damien Farine and Fabio Daura-Jorge describe an uncommon partnership between humans and bottlenose dolphins",
+            "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+            "source": "newsbytes",
+            "image": "https://www.pnas.org/do/10.1073/pc.cooperative-fishing/full/pc.2023-05-08-1683554558520.jpg",
+            "category": "general",
+            "language": "en",
+            "country": "ph",
+            "published_at": "2023-02-01T00:58:54+00:00"
+          },
+          {
+            "author": "Charean Williams",
+            "title": "How vertebrates acquired a gene for vision",
+            "description": "Welcome to Science Sessions, the podcast of the Proceedings of the National Academy of Sciences, where we connect you with Academy members, researchers, and policymakers. Join us as we explore the stories behind the science. I’m Paul Gabrielsen.",
+            "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+            "source": "newsbytes",
+            "image": "https://www.pnas.org/do/10.1073/pc.26889717/full/pc.2023-05-22-1684760401047.jpg",
+            "category": "general",
+            "language": "en",
+            "country": "ph",
+            "published_at": "2023-02-01T00:58:54+00:00"
+          },
+          {
+            "author": "SCIENCE SESSIONS PODCAST ",
+            "title": "Revisiting the history of animal extinctions",
+            "description": "Welcome to Science Sessions, the podcast of the Proceedings of the National Academy of Sciences, where we connect you with Academy members, researchers, and policymakers. Join us as we explore the stories behind the science. I’m Matthew Hardcastle, and I’m speaking with Scott Evans of Florida State University in Tallahassee, Florida",
+            "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+            "source": "newsbytes",
+            "image": "https://www.pnas.org/do/10.1073/pc.25749279/full/podcast.2023-01-30-1675087200797.jpg",
+            "category": "general",
+            "language": "en",
+            "country": "ph",
+            "published_at": "2023-02-01T00:58:54+00:00"
+          },
+          {
+            "author": "Charean samballs",
+            "title": "The music of Mesozoic bush crickets",
+            "description": "Welcome to Science Sessions, the podcast of the Proceedings of the National Academy of Sciences, where we connect you with Academy members, researchers, and policymakers. Join us as we explore the stories behind the science. I’m Paul Gabrielsen.",
+            "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+            "source": "newsbytes",
+            "image": "https://www.pnas.org/do/10.1073/pc.25597404/full/podcast.2023-01-16-1673877600883.jpg",
+            "category": "general",
+            "language": "en",
+            "country": "ph",
+            "published_at": "2023-02-01T00:58:54+00:00"
+          },
+          {
+            "author": "McGrath jobs",
+            "title": "How a neural network taught itself chess",
+            "description": " So at a high level, the way that it learns is essentially a great deal of trial and error. And at the start it’s mostly error. The moves are very close to random, and then eventually it will win some games. And that will provide some training signal. What’s going on is AlphaZero learns by essentially playing by itself. It’s taking both sides of the chess game.",
+            "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+            "source": "newsbytes",
+            "image": "https://www.pnas.org/do/10.1073/pc.25492578/full/podcast-2023-01-03-1672762580207.jpg",
+            "category": "general",
+            "language": "en",
+            "country": "ph",
+            "published_at": "2023-02-01T00:58:54+00:00"
+          },
+          {
+            "author": "Hugh Son",
+            "title": "Jump, bend, and roll: The rise of bioinspired robots",
+            "description": "Jump, bend, and roll: The rise of bioinspired robots. Some scientists and engineers have turned to nature to inspire the design of robots capable of mimicking the abilities of plants and so on.",
+            "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+            "source": "newsbytes",
+            "image": "https://www.pnas.org/do/10.1073/pc.bioinspired-robots/full/pc.2023-04-03-1680533466650.jpg",
+            "category": "general",
+            "language": "en",
+            "country": "ph",
+            "published_at": "2023-02-01T00:58:54+00:00"
+          },
+          {
+            "author": "Hugh Son",
+            "title": "Cooperative fishing between humans and dolphins",
+            "description": "Cooperative fishing between humans and dolphins Mauricio samtor Damien Farine and Fabio Daura-Jorge describe an uncommon partnership between humans and bottlenose dolphins",
+            "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+            "source": "newsbytes",
+            "image": "https://www.pnas.org/do/10.1073/pc.cooperative-fishing/full/pc.2023-05-08-1683554558520.jpg",
+            "category": "general",
+            "language": "en",
+            "country": "ph",
+            "published_at": "2023-02-01T00:58:54+00:00"
+          },
+          {
+            "author": "Charean Williams",
+            "title": "How vertebrates acquired a gene for vision",
+            "description": "Welcome to Science Sessions, the podcast of the Proceedings of the National Academy of Sciences, where we connect you with Academy members, researchers, and policymakers. Join us as we explore the stories behind the science. I’m Paul Gabrielsen.",
+            "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+            "source": "newsbytes",
+            "image": "https://www.pnas.org/do/10.1073/pc.26889717/full/pc.2023-05-22-1684760401047.jpg",
+            "category": "general",
+            "language": "en",
+            "country": "ph",
+            "published_at": "2023-02-01T00:58:54+00:00"
+          },
+          {
+            "author": "SCIENCE SESSIONS PODCAST ",
+            "title": "Revisiting the history of animal extinctions",
+            "description": "Welcome to Science Sessions, the podcast of the Proceedings of the National Academy of Sciences, where we connect you with Academy members, researchers, and policymakers. Join us as we explore the stories behind the science. I’m Matthew Hardcastle, and I’m speaking with Scott Evans of Florida State University in Tallahassee, Florida",
+            "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+            "source": "newsbytes",
+            "image": "https://www.pnas.org/do/10.1073/pc.25749279/full/podcast.2023-01-30-1675087200797.jpg",
+            "category": "general",
+            "language": "en",
+            "country": "ph",
+            "published_at": "2023-02-01T00:58:54+00:00"
+          },
+          {
+            "author": "Charean samballs",
+            "title": "The music of Mesozoic bush crickets",
+            "description": "Welcome to Science Sessions, the podcast of the Proceedings of the National Academy of Sciences, where we connect you with Academy members, researchers, and policymakers. Join us as we explore the stories behind the science. I’m Paul Gabrielsen.",
+            "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+            "source": "newsbytes",
+            "image": "https://www.pnas.org/do/10.1073/pc.25597404/full/podcast.2023-01-16-1673877600883.jpg",
+            "category": "general",
+            "language": "en",
+            "country": "ph",
+            "published_at": "2023-02-01T00:58:54+00:00"
+          },
+          {
+            "author": "McGrath jobs",
+            "title": "How a neural network taught itself chess",
+            "description": " So at a high level, the way that it learns is essentially a great deal of trial and error. And at the start it’s mostly error. The moves are very close to random, and then eventually it will win some games. And that will provide some training signal. What’s going on is AlphaZero learns by essentially playing by itself. It’s taking both sides of the chess game.",
+            "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+            "source": "newsbytes",
+            "image": "https://www.pnas.org/do/10.1073/pc.25492578/full/podcast-2023-01-03-1672762580207.jpg",
+            "category": "general",
+            "language": "en",
+            "country": "ph",
+            "published_at": "2023-02-01T00:58:54+00:00"
+          }
+      ]
+    }
+  ],
+  "mockEntertainmentNews" : [
+    {
+      "data" :[
+                {
+                    "author": "HOPE JONES",
+                    "title": "Breaking Down Every Twist in the Natalee Holloway Case",
+                    "description": "On the eve of the 18th anniversary of Natalee Holloway's disappearance in Aruba, here's a guide to all the leads and mysterious turns the case has taken since 2005.",
+                    "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+                    "source": "newsbytes",
+                    "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2019428/rs_1024x759-190528154808-1024-dave-holloway-natalee-dad.cl.052819.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top",
+                    "category": "general",
+                    "language": "en",
+                    "country": "ph",
+                    "published_at": "2023-02-01T00:58:54+00:00"
+                },
+                {
+                  "author": "HEAVY FINN",
+                  "title": "Untangling the Wildest Spice Girls Stories: Why Geri Halliwell Really Left, Mel B's Bombshells and More",
+                  "description": "On the eve of the 18th anniversary of Natalee Holloway's disappearance in Aruba, here's a guide to all the leads and mysterious turns the case has taken since 2005.Each member of the group went on to other things, in the music world and beyond, but the passage of time hasn't put a stop to the ongoing fascination with their girl-power-flaunting rein. And at least one of them has had no qualms about painting a very vivid picture of just how wild of a time they had back in their heyday.",
+                  "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+                  "source": "newsbytes",
+                  "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2019225/rs_1024x759-190325145204-1024x759-melb-geri-gj-3-25-19.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top",
+                  "category": "general",
+                  "language": "en",
+                  "country": "ph",
+                  "published_at": "2023-02-01T00:58:54+00:00"
+              },
+              {
+                "author": "SAM FINN",
+                "title": "Here's How Succession Ended After 4 Seasons",
+                "description": "Succession aired its final episode on HBO May 28, with the Roy siblings Kendall (Jeremy Strong), Siobhan (Sarah Snook) and Roman (Kieran Culkin) battling for the top spot at Waystar Royco.",
+                "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+                "source": "newsbytes",
+                "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2023317/rs_1024x759-230417042208-1024-Succession_Season_4_Episode_4.jpg?fit=around%7C1024:759 output-quality=90&crop=1024:759;center,top",
+                "category": "general",
+                "language": "en",
+                "country": "ph",
+                "published_at": "2023-02-01T00:58:54+00:00"
+            },
+            {
+              "author": "Aqua Fina",
+              "title": "Proof Blake Shelton and Gwen Stefani's Latest Date Night Was Hella Good",
+              "description": "The God's Country singer and the Make Me Like You artist stepped out for a cool date night in Los Angeles on May 26. For the evening, Blake donned a black short-sleeved shirt paired with jeans, while Gwen opted for a black puffer coat with dark jeans and boots.",
+              "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+              "source": "newsbytes",
+              "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2023428/rs_634x1024-230528091034-634-blake-shelton-gwen-stefani.cm.52823.jpg?fit=around%7C634:1024&output-quality=90&crop=634:1024;center,top",
+              "category": "general",
+              "language": "en",
+              "country": "ph",
+              "published_at": "2023-02-01T00:58:54+00:00"
+          },
+          {
+            "author": "Katalie Funed",
+            "title": "Zayn Malik Sends Heartfelt Message to Fans in Rare Social Media Return",
+            "description": "Though the 'Pillow Talk' singer has remained mostly out of the public eye in recent years, he made a rare return to social media on May 27 to send a heartfelt message.",
+            "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+            "source": "newsbytes",
+            "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2022628/1024-zayn-malik.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top",
+            "category": "general",
+            "language": "en",
+            "country": "ph",
+            "published_at": "2023-02-01T00:58:54+00:00"
+        },
+        {
+          "author": "Herbert Macluary",
+          "title": "The Best Deals From Nordstrom's Half-Yearly Sale 2023: $18 SKIMS Tops, Nike Sneakers & More 60% Off Deals",
+          "description": "Though the 'Pillow Talk' singer has remained mostly out of the public eye in recent years, he made a rare return to social media on May 27 to send a heartfelt message.",
+          "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+          "source": "newsbytes",
+          "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2023426/rs_1024x759-230526140308-1024-Memorial-Day-Sales-nordstrom-half-yearly-sale-update.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top",
+          "category": "general",
+          "language": "en",
+          "country": "ph",
+          "published_at": "2023-02-01T00:58:54+00:00"
+        },
+        {
+          "author": "HOPE JONES",
+          "title": "Breaking Down Every Twist in the Natalee Holloway Case",
+          "description": "On the eve of the 18th anniversary of Natalee Holloway's disappearance in Aruba, here's a guide to all the leads and mysterious turns the case has taken since 2005.",
+          "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+          "source": "newsbytes",
+          "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2019428/rs_1024x759-190528154808-1024-dave-holloway-natalee-dad.cl.052819.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top",
+          "category": "general",
+          "language": "en",
+          "country": "ph",
+          "published_at": "2023-02-01T00:58:54+00:00"
+      },
+      {
+        "author": "HEAVY FINN",
+        "title": "Untangling the Wildest Spice Girls Stories: Why Geri Halliwell Really Left, Mel B's Bombshells and More",
+        "description": "On the eve of the 18th anniversary of Natalee Holloway's disappearance in Aruba, here's a guide to all the leads and mysterious turns the case has taken since 2005.Each member of the group went on to other things, in the music world and beyond, but the passage of time hasn't put a stop to the ongoing fascination with their girl-power-flaunting rein. And at least one of them has had no qualms about painting a very vivid picture of just how wild of a time they had back in their heyday.",
+        "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+        "source": "newsbytes",
+        "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2019225/rs_1024x759-190325145204-1024x759-melb-geri-gj-3-25-19.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top",
+        "category": "general",
+        "language": "en",
+        "country": "ph",
+        "published_at": "2023-02-01T00:58:54+00:00"
+    },
+    {
+      "author": "SAM FINN",
+      "title": "Here's How Succession Ended After 4 Seasons",
+      "description": "Succession aired its final episode on HBO May 28, with the Roy siblings Kendall (Jeremy Strong), Siobhan (Sarah Snook) and Roman (Kieran Culkin) battling for the top spot at Waystar Royco.",
+      "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+      "source": "newsbytes",
+      "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2023317/rs_1024x759-230417042208-1024-Succession_Season_4_Episode_4.jpg?fit=around%7C1024:759 output-quality=90&crop=1024:759;center,top",
+      "category": "general",
+      "language": "en",
+      "country": "ph",
+      "published_at": "2023-02-01T00:58:54+00:00"
+  },
+  {
+    "author": "Aqua Fina",
+    "title": "Proof Blake Shelton and Gwen Stefani's Latest Date Night Was Hella Good",
+    "description": "The God's Country singer and the Make Me Like You artist stepped out for a cool date night in Los Angeles on May 26. For the evening, Blake donned a black short-sleeved shirt paired with jeans, while Gwen opted for a black puffer coat with dark jeans and boots.",
+    "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+    "source": "newsbytes",
+    "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2023428/rs_634x1024-230528091034-634-blake-shelton-gwen-stefani.cm.52823.jpg?fit=around%7C634:1024&output-quality=90&crop=634:1024;center,top",
+    "category": "general",
+    "language": "en",
+    "country": "ph",
+    "published_at": "2023-02-01T00:58:54+00:00"
+},
+{
+  "author": "Katalie Funed",
+  "title": "Zayn Malik Sends Heartfelt Message to Fans in Rare Social Media Return",
+  "description": "Though the 'Pillow Talk' singer has remained mostly out of the public eye in recent years, he made a rare return to social media on May 27 to send a heartfelt message.",
+  "url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+  "source": "newsbytes",
+  "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2022628/1024-zayn-malik.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top",
+  "category": "general",
+  "language": "en",
+  "country": "ph",
+  "published_at": "2023-02-01T00:58:54+00:00"
+},
+{
+"author": "Herbert Macluary",
+"title": "The Best Deals From Nordstrom's Half-Yearly Sale 2023: $18 SKIMS Tops, Nike Sneakers & More 60% Off Deals",
+"description": "Though the 'Pillow Talk' singer has remained mostly out of the public eye in recent years, he made a rare return to social media on May 27 to send a heartfelt message.",
+"url": "/2023/02/01/dict-kicks-off-series-of-consultations-for-new-5-year-cybersecurity-plan/",
+"source": "newsbytes",
+"image": "https://akns-images.eonline.com/eol_images/Entire_Site/2023426/rs_1024x759-230526140308-1024-Memorial-Day-Sales-nordstrom-half-yearly-sale-update.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top",
+"category": "general",
+"language": "en",
+"country": "ph",
+"published_at": "2023-02-01T00:58:54+00:00"
+}
+      ]
+    }
+  ],
+  "mockHealthNews" : [
+    {
+      "data": [
+        {
+          "title": "5 Food Swaps for a Heart-Healthy Diet, According to a Cardiologist",
+          "description": "From French toast to fried chicken, Dr. Beth Abramson shared healthy alternatives to foods favorites to reduce the risk of heart problems.",
+          "content": "Cardiologist Dr. Beth Abramson recommended heart-healthy versions of classic foods.\n\"Fry less, broil more, bake more,\" she said.\nShe recommended making French toast with skimmed milk and egg white and baking it.\nTop editors give you the stories you w... [3543 chars]",
+          "url": "https://www.insider.com/substitutes-heart-healthy-diet-2023-5",
+          "image": "https://i.insider.com/646df9916f9a480018735925?width=1200&format=jpeg",
+          "publishedAt": "2023-05-29T10:00:00Z",
+          "source": {
+            "name": "Insider",
+            "url": "https://www.insider.com"
+          }
+        },
+        {
+          "title": "A Lifetime of Long-COVID: Some people never got rid of the symptoms",
+          "description": "As the government prepares to declare the end of the public health emergency on May 11th, concerns are growing about people who got COVID-19 but never got rid of the symptoms – it’s called long-COVID, which means symptoms last for more than a month.",
+          "content": "As the government prepares to declare the end of the public health emergency on May 11th, concerns are growing about people who got COVID-19 but never got rid of the symptoms – it’s called long-COVID, which means symptoms last for more than a month. ... [2024 chars]",
+          "url": "https://www.news4jax.com/news/morning-show/2023/05/29/a-lifetime-of-long-covid-some-people-never-got-rid-of-the-symptoms/",
+          "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/4EXKHCWUM5D6PPHN3KZQRAHCGI.jpg?_a=ATCqVhC0",
+          "publishedAt": "2023-05-29T10:00:00Z",
+          "source": {
+            "name": "WJXT News4JAX ",
+            "url": "https://www.news4jax.com"
+          }
+        },
+        {
+          "title": "Sun Exposure Can Relieve Skin Conditions: How Much Exposure Is Good According To Experts?",
+          "description": "Sun exposure for skin health is both good and bad. So, how can you determine how much sunlight is good? TheHealthSite.com",
+          "content": "Sun Exposure Can Relieve Skin Conditions: How Much Exposure Is Good According To Experts?\nSun Exposure Can Relieve Skin Conditions: How Much Exposure Is Good According To Experts?\nSun exposure for skin health is both good and bad. So, how can you det... [3006 chars]",
+          "url": "https://www.thehealthsite.com/diseases-conditions/sun-exposure-can-relieve-skin-conditions-how-much-exposure-is-good-according-to-experts-981339/",
+          "image": "https://st1.thehealthsite.com/wp-content/uploads/2022/12/young-woman-bridge.jpg",
+          "publishedAt": "2023-05-29T09:33:00Z",
+          "source": {
+            "name": "TheHealthSite",
+            "url": "https://www.thehealthsite.com"
+          }
+        },
+        {
+          "title": "Decoded: How Botox drug enters brain cells, causes paralysis",
+          "description": "Sydney: Scientists have decoded how injections from Botox drug, majorly used to smoothen wrinkles and reverse ageing, are able to breach brain cells,",
+          "content": "Sydney: Scientists have decoded how injections from Botox drug, majorly used to smoothen wrinkles and reverse ageing, are able to breach brain cells, leading to paralysis or even death.\nThe injectable drug Botox was originally developed to treat peop... [1860 chars]",
+          "url": "https://www.siasat.com/decoded-how-botox-drug-enters-brain-cells-causes-paralysis-2601403/",
+          "image": "https://cdn.siasat.com/wp-content/uploads/2023/05/Botox.jpg",
+          "publishedAt": "2023-05-29T09:29:00Z",
+          "source": {
+            "name": "The Siasat Daily",
+            "url": "https://www.siasat.com"
+          }
+        },
+        {
+          "title": "6 Ways To Stop Worrying About Things You Can’t Control",
+          "description": "From mindful mediation to maintaining healthy habits, there are lots of ﻿stress-reducing strategies that can help when an anxiety spiral begins.",
+          "content": "Worrying about things beyond your control can be a common source of stress and anxiety. Most people worry sometimes, but if it's affecting your life more dramatically there are things you can try that may help.\nFrom mindful mediation to challenging n... [4699 chars]",
+          "url": "https://www.countryliving.com/uk/wellbeing/a43859975/how-to-stop-worrying/",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/how-to-stop-worrying-64648c92e2af3.jpg?crop=1.00xw:0.376xh;0,0.363xh&resize=1200:*",
+          "publishedAt": "2023-05-29T09:18:15Z",
+          "source": {
+            "name": "Country Living UK",
+            "url": "https://www.countryliving.com"
+          }
+        },
+        {
+          "title": "The pandemic potential of avian flu",
+          "description": "As this strain of bird flu can infect mammals, experts look to the future",
+          "content": "Avian influenza is getting more serious each year, as an unprecedented number of birds either succumb to the virus or are culled to prevent spread. After a dog in Ontario and thousands of sea lions died from the flu, there’s growing concern about thi... [355 chars]",
+          "url": "https://www.theglobeandmail.com/podcasts/the-decibel/article-the-pandemic-potential-of-avian-flu/",
+          "image": "https://www.theglobeandmail.com/resizer/_avQSW-gNb8XMlBIpkC-PJlBCCk=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/GHQ5WM2SKJDSDH53LMIWUHHUSA.png",
+          "publishedAt": "2023-05-29T09:00:00Z",
+          "source": {
+            "name": "The Globe and Mail",
+            "url": "https://www.theglobeandmail.com"
+          }
+        },
+        {
+          "title": "Symptoms, Care and Full Health Info",
+          "description": "Meningitis is a serious disease characterised by inflammation of the membranes surrounding the brain and spinal cord",
+          "content": "Meningitis is a serious disease characterised by inflammation of the membranes surrounding the brain and spinal cord. It is important to be aware of early symptoms in order to be able to intervene early.\nIf the disease is not diagnosed early then the... [2364 chars]",
+          "url": "https://arynews.tv/meningitis-symptoms-full-info/",
+          "image": "https://arynews.tv/wp-content/uploads/2023/05/meningitis.jpg",
+          "publishedAt": "2023-05-29T08:58:49Z",
+          "source": {
+            "name": "ARY NEWS",
+            "url": "https://arynews.tv"
+          }
+        },
+        {
+          "title": "World No Tobacco Day: Can Vaping Give You Wrinkles? Expert Reveals The Consequences Beyond Lung Cancer",
+          "description": "The specific ingredients inhaled vary depending on the type of vape being used. The level of harm is also influenced by the duration of inhalation and the frequency of device usage. Some potential chemicals present in the vapor include formaldehyde, nicotine and its derivatives, propylene glycol, toluene, acetaldehyde, as well as trace metals like cadmium, nickel, and lead., Health News, Times Now",
+          "content": "Nicotine, a component found in both cigarettes and electronic cigarettes (e-cigarettes), has the effect of constricting blood vessels, resulting in reduced blood flow to the skin. Photo : iStock\nPresented as a milder and gentler alternative to tradit... [5408 chars]",
+          "url": "https://www.timesnownews.com/health/world-no-tobacco-day-can-vaping-give-you-wrinkles-expert-reveals-the-consequences-beyond-lung-cancer-article-100589312",
+          "image": "https://static.tnn.in/thumb/msid-100589312,updatedat-1685350724384,width-1280,height-720,resizemode-75/100589312.jpg",
+          "publishedAt": "2023-05-29T08:58:44Z",
+          "source": {
+            "name": "Times Now",
+            "url": "https://www.timesnownews.com"
+          }
+        },
+        {
+          "title": "Sunlight exposure, Stress to Smoking and alcohol consumption: Factors causing wrinkles",
+          "description": "Lack of sleep makes skin healing more difficult. The skin's ability to retain moisture is compromised, as well as the pH level. All of this causes insufficient collagen formation, which speeds up the development of wrinkles.",
+          "content": "Follow us on Image Source : FREEPIK Factors causing wrinkles\nWe are aware that wrinkles are ridges, folds, or creases in the epidermis of the skin. As we become older, they naturally develop. It is however perfectly normal to have wrinkles on your sk... [3836 chars]",
+          "url": "https://www.indiatvnews.com/lifestyle/beauty/sunlight-exposure-stress-to-smoking-and-alcohol-consumption-factors-causing-wrinkles-2023-05-29-873138",
+          "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/05/wrinkles-1685349961.jpg",
+          "publishedAt": "2023-05-29T08:46:34Z",
+          "source": {
+            "name": "India TV News",
+            "url": "https://www.indiatvnews.com"
+          }
+        },
+        {
+          "title": "Urgent vet warning - small signs that your dog might be in pain and why it could lead to emergency surgery",
+          "description": "A VET has issued an urgent warning to dog owners over small signs their pet might be in pain that could go unnoticed.Dr Susie Kruse shared a video on",
+          "content": "A VET has issued an urgent warning to dog owners over small signs their pet might be in pain that could go unnoticed.\nDr Susie Kruse shared a video on TikTok explaining there are five warning signs your young dog might be developing hip or joint prob... [1483 chars]",
+          "url": "https://www.thesun.ie/fabulous/10792226/urgent-vet-warning-small-signs-dog-pain-emergency-surgery/",
+          "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/05/newspress-collage-22510091-1685350421521.jpg?1685354078&strip=all&quality=100&w=1920&h=1080&crop=1",
+          "publishedAt": "2023-05-29T08:42:25Z",
+          "source": {
+            "name": "The Irish Sun",
+            "url": "https://www.thesun.ie"
+          }
+        },
+            {
+              "title": "Study finds possible cause for spike in colorectal cancer cases in patients under 50",
+              "description": "Colon cancer develops from polyps in your colon's inner lining. Researchers have found a new possible cause for increase in this cancer in young people in the US.",
+              "content": "Apart from the fungus that may or may not have been influenced by lifestyle factors, there are several factors that can increase one's risk of developing this cancer. Using tobacco products such as chewing tobacco and e-cigarettes can increase your r... [375 chars]",
+              "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/study-finds-possible-cause-for-spike-in-colorectal-cancer-cases-in-patients-under-50/photostory/100590988.cms",
+              "image": "https://static.toiimg.com/photo/100591032.cms",
+              "publishedAt": "2023-05-29T10:30:00Z",
+              "source": {
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com"
+              }
+            },
+            {
+              "title": "Irregular Periods Can Put You At Higher Risk Of Heart Disease: Is This True?",
+              "description": "With upcoming studies, parallels between the reproductive system and cardiovascular system in a woman's body are becoming more obvious. TheHealthSite.com",
+              "content": "Irregular Periods Can Put You At Higher Risk Of Heart Disease: Is This True?\nResearchers have already established the correlation between menopause (lowering of estrogen levels) and increased cardiovascular risk.\nWith upcoming studies, parallels betw... [2395 chars]",
+              "url": "https://www.thehealthsite.com/diseases-conditions/irregular-periods-can-put-you-at-higher-risk-of-heart-disease-is-this-true-981358/",
+              "image": "https://st1.thehealthsite.com/wp-content/uploads/2023/05/irregular-periods.jpg",
+              "publishedAt": "2023-05-29T10:24:00Z",
+              "source": {
+                "name": "TheHealthSite",
+                "url": "https://www.thehealthsite.com"
+              }
+            },
+            {
+              "title": "5 Food Swaps for a Heart-Healthy Diet, According to a Cardiologist",
+              "description": "From French toast to fried chicken, Dr. Beth Abramson shared healthy alternatives to foods favorites to reduce the risk of heart problems.",
+              "content": "Cardiologist Dr. Beth Abramson recommended heart-healthy versions of classic foods.\n\"Fry less, broil more, bake more,\" she said.\nShe recommended making French toast with skimmed milk and egg white and baking it.\nTop editors give you the stories you w... [3543 chars]",
+              "url": "https://www.insider.com/substitutes-heart-healthy-diet-2023-5",
+              "image": "https://i.insider.com/646df9916f9a480018735925?width=1200&format=jpeg",
+              "publishedAt": "2023-05-29T10:00:00Z",
+              "source": {
+                "name": "Insider",
+                "url": "https://www.insider.com"
+              }
+            },
+            {
+              "title": "A Lifetime of Long-COVID: Some people never got rid of the symptoms",
+              "description": "As the government prepares to declare the end of the public health emergency on May 11th, concerns are growing about people who got COVID-19 but never got rid of the symptoms – it’s called long-COVID, which means symptoms last for more than a month.",
+              "content": "As the government prepares to declare the end of the public health emergency on May 11th, concerns are growing about people who got COVID-19 but never got rid of the symptoms – it’s called long-COVID, which means symptoms last for more than a month. ... [2024 chars]",
+              "url": "https://www.news4jax.com/news/morning-show/2023/05/29/a-lifetime-of-long-covid-some-people-never-got-rid-of-the-symptoms/",
+              "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/4EXKHCWUM5D6PPHN3KZQRAHCGI.jpg?_a=ATCqVhC0",
+              "publishedAt": "2023-05-29T10:00:00Z",
+              "source": {
+                "name": "WJXT News4JAX ",
+                "url": "https://www.news4jax.com"
+              }
+            },
+            {
+              "title": "Sun Exposure Can Relieve Skin Conditions: How Much Exposure Is Good According To Experts?",
+              "description": "Sun exposure for skin health is both good and bad. So, how can you determine how much sunlight is good? TheHealthSite.com",
+              "content": "Sun Exposure Can Relieve Skin Conditions: How Much Exposure Is Good According To Experts?\nSun Exposure Can Relieve Skin Conditions: How Much Exposure Is Good According To Experts?\nSun exposure for skin health is both good and bad. So, how can you det... [3006 chars]",
+              "url": "https://www.thehealthsite.com/diseases-conditions/sun-exposure-can-relieve-skin-conditions-how-much-exposure-is-good-according-to-experts-981339/",
+              "image": "https://st1.thehealthsite.com/wp-content/uploads/2022/12/young-woman-bridge.jpg",
+              "publishedAt": "2023-05-29T09:33:00Z",
+              "source": {
+                "name": "TheHealthSite",
+                "url": "https://www.thehealthsite.com"
+              }
+            },
+            {
+              "title": "Decoded: How Botox drug enters brain cells, causes paralysis",
+              "description": "Sydney: Scientists have decoded how injections from Botox drug, majorly used to smoothen wrinkles and reverse ageing, are able to breach brain cells,",
+              "content": "Sydney: Scientists have decoded how injections from Botox drug, majorly used to smoothen wrinkles and reverse ageing, are able to breach brain cells, leading to paralysis or even death.\nThe injectable drug Botox was originally developed to treat peop... [1860 chars]",
+              "url": "https://www.siasat.com/decoded-how-botox-drug-enters-brain-cells-causes-paralysis-2601403/",
+              "image": "https://cdn.siasat.com/wp-content/uploads/2023/05/Botox.jpg",
+              "publishedAt": "2023-05-29T09:29:00Z",
+              "source": {
+                "name": "The Siasat Daily",
+                "url": "https://www.siasat.com"
+              }
+            },
+            {
+              "title": "6 Ways To Stop Worrying About Things You Can’t Control",
+              "description": "From mindful mediation to maintaining healthy habits, there are lots of ﻿stress-reducing strategies that can help when an anxiety spiral begins.",
+              "content": "Worrying about things beyond your control can be a common source of stress and anxiety. Most people worry sometimes, but if it's affecting your life more dramatically there are things you can try that may help.\nFrom mindful mediation to challenging n... [4699 chars]",
+              "url": "https://www.countryliving.com/uk/wellbeing/a43859975/how-to-stop-worrying/",
+              "image": "https://hips.hearstapps.com/hmg-prod/images/how-to-stop-worrying-64648c92e2af3.jpg?crop=1.00xw:0.376xh;0,0.363xh&resize=1200:*",
+              "publishedAt": "2023-05-29T09:18:15Z",
+              "source": {
+                "name": "Country Living UK",
+                "url": "https://www.countryliving.com"
+              }
+            },
+            {
+              "title": "The pandemic potential of avian flu",
+              "description": "As this strain of bird flu can infect mammals, experts look to the future",
+              "content": "Avian influenza is getting more serious each year, as an unprecedented number of birds either succumb to the virus or are culled to prevent spread. After a dog in Ontario and thousands of sea lions died from the flu, there’s growing concern about thi... [355 chars]",
+              "url": "https://www.theglobeandmail.com/podcasts/the-decibel/article-the-pandemic-potential-of-avian-flu/",
+              "image": "https://www.theglobeandmail.com/resizer/_avQSW-gNb8XMlBIpkC-PJlBCCk=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/GHQ5WM2SKJDSDH53LMIWUHHUSA.png",
+              "publishedAt": "2023-05-29T09:00:00Z",
+              "source": {
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com"
+              }
+            },
+            {
+              "title": "Symptoms, Care and Full Health Info",
+              "description": "Meningitis is a serious disease characterised by inflammation of the membranes surrounding the brain and spinal cord",
+              "content": "Meningitis is a serious disease characterised by inflammation of the membranes surrounding the brain and spinal cord. It is important to be aware of early symptoms in order to be able to intervene early.\nIf the disease is not diagnosed early then the... [2364 chars]",
+              "url": "https://arynews.tv/meningitis-symptoms-full-info/",
+              "image": "https://arynews.tv/wp-content/uploads/2023/05/meningitis.jpg",
+              "publishedAt": "2023-05-29T08:58:49Z",
+              "source": {
+                "name": "ARY NEWS",
+                "url": "https://arynews.tv"
+              }
+            },
+            {
+              "title": "World No Tobacco Day: Can Vaping Give You Wrinkles? Expert Reveals The Consequences Beyond Lung Cancer",
+              "description": "The specific ingredients inhaled vary depending on the type of vape being used. The level of harm is also influenced by the duration of inhalation and the frequency of device usage. Some potential chemicals present in the vapor include formaldehyde, nicotine and its derivatives, propylene glycol, toluene, acetaldehyde, as well as trace metals like cadmium, nickel, and lead., Health News, Times Now",
+              "content": "Nicotine, a component found in both cigarettes and electronic cigarettes (e-cigarettes), has the effect of constricting blood vessels, resulting in reduced blood flow to the skin. Photo : iStock\nPresented as a milder and gentler alternative to tradit... [5408 chars]",
+              "url": "https://www.timesnownews.com/health/world-no-tobacco-day-can-vaping-give-you-wrinkles-expert-reveals-the-consequences-beyond-lung-cancer-article-100589312",
+              "image": "https://static.tnn.in/thumb/msid-100589312,updatedat-1685350724384,width-1280,height-720,resizemode-75/100589312.jpg",
+              "publishedAt": "2023-05-29T08:58:44Z",
+              "source": {
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com"
+              }
+            }   
+      ]
+    }
+  ],
+  "mockTechNews" : [
+    {
+      "data": [
+        {
+          "title": "Nintendo explains its decision to block Dolphin’s Steam release, saying it ‘stifles innovation’",
+          "description": "The GameCube and Wii emulator was set to appear on Valve'",
+          "content": "Nintendo has explained why it took action to block an upcoming Steam release of popular GameCube and Wii emulator Dolphin.\nThe team behind the emulator recently stated on its website that the Steam release of Dolphin had been “indefinitely postponed”... [2513 chars]",
+          "url": "https://www.videogameschronicle.com/news/nintendo-explains-its-decision-to-block-dolphins-steam-release-saying-it-stifles-innovation/",
+          "image": "https://www.videogameschronicle.com/files/2023/05/5c4de24c5a55a8671059d9937ee0172a.jpg",
+          "publishedAt": "2023-05-29T10:19:30Z",
+          "source": {
+            "name": "Video Games Chronicle",
+            "url": "https://www.videogameschronicle.com"
+          }
+        },
+        {
+          "title": "How to Use Google's AI Search Experience Right Now",
+          "description": "Google announced that it's planning to integrate AI into Google Search. Here's how you can try the new AI search experience right now.",
+          "content": "At Google's I/O 2023 event, the search giant made several exciting AI-related announcements. One such announcement was Search Generative Experience (SGE), a collection of AI-driven enhancements aimed at revolutionizing Google Search.\nAt the event, Go... [4011 chars]",
+          "url": "https://www.makeuseof.com/use-google-ai-search-experience/",
+          "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generative-search-in-google.jpg",
+          "publishedAt": "2023-05-29T10:05:00Z",
+          "source": {
+            "name": "MUO - MakeUseOf",
+            "url": "https://www.makeuseof.com"
+          }
+        },
+        {
+          "title": "In Your Opinion Podcast: Record-breaking COE’s impact on Singapore society",
+          "description": "As more are priced out of owning cars, will the cost of vehicle-sharing services rise and be passed on to those who use them?  Read more at straitstimes.com.",
+          "content": "In this episode, ST’s podcast editor Ernest Luis hosts colleague and senior transport correspondent Lee Nian Tjoe, and Ms Ramya Ragupathi, an entrepreneur in the food industry. She runs Oh My Goodness, a food manufacturing start-up that specialises i... [2387 chars]",
+          "url": "https://www.straitstimes.com/singapore/in-your-opinion-podcast-record-breaking-coe-s-impact-on-singapore-society",
+          "image": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/29/IYO20ep202720picture.jpg?VersionId=MV.fSMiXxIgHbViU8L6v1D6raxs4Mso2",
+          "publishedAt": "2023-05-29T10:00:00Z",
+          "source": {
+            "name": "The Straits Times",
+            "url": "https://www.straitstimes.com"
+          }
+        },
+        {
+          "title": "These iPhone Models Could Be Discontinued After iPhone 15 Launch This Year: Know More",
+          "description": "The company is expected to stop selling one of its older iPhone models when the iPhone 15 series comes out later this year.",
+          "content": "Apple iPhone 15 launch is expected later this year, and the rumour mills have been busy churning out new details and even leaked design renders of these iPhones. Apple is widely expected to offer the iPhone 15 series with USB C charging support, whic... [1521 chars]",
+          "url": "https://www.news18.com/tech/these-iphone-models-could-be-discontinued-after-iphone-15-launch-this-year-know-more-7946353.html",
+          "image": "https://images.news18.com/ibnlive/uploads/2023/03/iphone-15-dynamic-167951154416x9.jpg",
+          "publishedAt": "2023-05-29T09:51:21Z",
+          "source": {
+            "name": "News18",
+            "url": "https://www.news18.com"
+          }
+        },
+        {
+          "title": "OnePlus 11 5G Marble Odyssey Limited Edition Phone India Unveil Launch Price Microcrystalline Rock Specs Features",
+          "description": "OnePlus on Monday unveiled the limited edition OnePlus 11 5G Marble Odyssey smartphone.",
+          "content": "OnePlus on Monday unveiled the limited edition OnePlus 11 5G Marble Odyssey smartphone. The smartphone is said to be the only one to be made from a rare microcrystalline rock material that resembles a marble finish and creates a visual and tactile ex... [2779 chars]",
+          "url": "https://news.abplive.com/technology/gadgets/oneplus-11-5g-marble-odyssey-limited-edition-phone-india-unveil-launch-price-microcrystalline-rock-specs-features-1605520",
+          "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/05/29/b5bc1b3cd277d887dd62f4546b75da9a1685352106182295_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
+          "publishedAt": "2023-05-29T09:43:14Z",
+          "source": {
+            "name": "ABP Live",
+            "url": "https://news.abplive.com"
+          }
+        },
+        {
+          "title": "Square Enix changed Final Fantasy 16’s UI following fan feedback, then changed it back",
+          "description": "Producer Naoki Yoshida says the team decided to revert to its original design…",
+          "content": "Final Fantasy 16‘s user interface was temporarily changed due to online feedback, before Square Enix decided to undo the changes and restore the original design.\nIn an interview with Final Fantasy Union, producer Naoki Yoshida was asked if the team h... [1644 chars]",
+          "url": "https://www.videogameschronicle.com/news/square-enix-changed-final-fantasy-16s-ui-following-fan-feedback-then-changed-it-back/",
+          "image": "https://www.videogameschronicle.com/files/2023/05/Final-Fantasy-16-9.jpg",
+          "publishedAt": "2023-05-29T09:36:02Z",
+          "source": {
+            "name": "Video Games Chronicle",
+            "url": "https://www.videogameschronicle.com"
+          }
+        },
+        {
+          "title": "Using AI to reduce time and costs in marketing videos · TechNode",
+          "description": "TechNode talks with Ken Wang, founder and CEO of BOOLV, on using AI tools to speed up content creation in marketing and e-commerce.",
+          "content": "Using AI tools in content creation is increasingly an industry norm as the AI models behind the tools become more sophisticated. TechNode caught up with Ken Wang, founder and CEO of BOOLV, at the BEYOND Expo 2023 in mid-May. BOOLV is a Hong Kong-base... [4545 chars]",
+          "url": "https://technode.com/2023/05/29/founders-qa-using-ai-to-reduce-time-and-costs-in-marketing-video-creation/",
+          "image": "https://i0.wp.com/technode.com/wp-content/uploads/2023/05/BOOLV_header-e1685080093437.png?fit=2560%2C1427&ssl=1",
+          "publishedAt": "2023-05-29T09:30:00Z",
+          "source": {
+            "name": "TechNode",
+            "url": "https://technode.com"
+          }
+        },
+        {
+          "title": "Bringing Clarity to the Dark: Using Sensors in Low-Light Imaging",
+          "description": "The demand for high-quality images has driven the development of low-light imaging technology, making sensors a critical component in capturing images in challenging lighting conditions.",
+          "content": "The demand for high-quality images has driven the development of low-light imaging technology, making sensors a critical component in capturing images in challenging lighting conditions. This article explores the significance of sensors in low-light ... [10054 chars]",
+          "url": "https://www.azosensors.com/article.aspx?ArticleID=2829",
+          "image": "https://d10lvax23vl53t.cloudfront.net/images/Article_Images/SocialSharingImage_2829_16853524349303585.jpg",
+          "publishedAt": "2023-05-29T09:29:00Z",
+          "source": {
+            "name": "AZoSensors",
+            "url": "https://www.azosensors.com"
+          }
+        },
+        {
+          "title": "See inside The Block couple's Gold Coast 'Queenslander' after it sold for a massive $1.9million",
+          "description": "The Block stars Jess and Ayden Hogan have sold their Queenslander style home for a massive $1.9million after less than a week on the market.",
+          "content": "Advertisement\nThe Block stars Jess and Ayden Hogan have sold their Queenslander style home for a massive $1.9million after less than a week on the market.\nThe stars, who walked away with $665,000 after appearing on the show in 2015, had a huge 28 off... [1752 chars]",
+          "url": "https://www.dailymail.co.uk/tvshowbiz/article-12135597/See-inside-Block-couples-Gold-Coast-Queenslander-sold-massive-1-9million.html",
+          "image": "https://i.dailymail.co.uk/1s/2023/05/29/09/71524173-0-image-a-30_1685349787248.jpg",
+          "publishedAt": "2023-05-29T09:20:58Z",
+          "source": {
+            "name": "Daily Mail",
+            "url": "https://www.dailymail.co.uk"
+          }
+        },
+        {
+          "title": "The Best Minecraft Maps You Should Try Out",
+          "description": "This article will take a look at four of the best Minecraft maps you should try out for some fun and adventure in the game. Details inside.",
+          "content": "Minecraft Maps are a way for players to have fun with their friends in different worlds with various game modes and storylines connected to them. We will list four of the best ones you should try out.\nAdvertisement\nMinecraft maps are some of the best... [2994 chars]",
+          "url": "https://thesportsrush.com/the-best-minecraft-maps-you-should-try-out/",
+          "image": "https://cdn-wp.thesportsrush.com/2023/05/b088d68d-2019-02-08_06.36.52.jpeg",
+          "publishedAt": "2023-05-29T09:07:23Z",
+          "source": {
+            "name": "The Sportsrush",
+            "url": "https://thesportsrush.com"
+          }
+        },
+        {
+          "title": "Nintendo explains its decision to block Dolphin’s Steam release, saying it ‘stifles innovation’",
+          "description": "The GameCube and Wii emulator was set to appear on Valve'",
+          "content": "Nintendo has explained why it took action to block an upcoming Steam release of popular GameCube and Wii emulator Dolphin.\nThe team behind the emulator recently stated on its website that the Steam release of Dolphin had been “indefinitely postponed”... [2513 chars]",
+          "url": "https://www.videogameschronicle.com/news/nintendo-explains-its-decision-to-block-dolphins-steam-release-saying-it-stifles-innovation/",
+          "image": "https://www.videogameschronicle.com/files/2023/05/5c4de24c5a55a8671059d9937ee0172a.jpg",
+          "publishedAt": "2023-05-29T10:19:30Z",
+          "source": {
+            "name": "Video Games Chronicle",
+            "url": "https://www.videogameschronicle.com"
+          }
+        },
+        {
+          "title": "How to Use Google's AI Search Experience Right Now",
+          "description": "Google announced that it's planning to integrate AI into Google Search. Here's how you can try the new AI search experience right now.",
+          "content": "At Google's I/O 2023 event, the search giant made several exciting AI-related announcements. One such announcement was Search Generative Experience (SGE), a collection of AI-driven enhancements aimed at revolutionizing Google Search.\nAt the event, Go... [4011 chars]",
+          "url": "https://www.makeuseof.com/use-google-ai-search-experience/",
+          "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generative-search-in-google.jpg",
+          "publishedAt": "2023-05-29T10:05:00Z",
+          "source": {
+            "name": "MUO - MakeUseOf",
+            "url": "https://www.makeuseof.com"
+          }
+        },
+        {
+          "title": "In Your Opinion Podcast: Record-breaking COE’s impact on Singapore society",
+          "description": "As more are priced out of owning cars, will the cost of vehicle-sharing services rise and be passed on to those who use them?  Read more at straitstimes.com.",
+          "content": "In this episode, ST’s podcast editor Ernest Luis hosts colleague and senior transport correspondent Lee Nian Tjoe, and Ms Ramya Ragupathi, an entrepreneur in the food industry. She runs Oh My Goodness, a food manufacturing start-up that specialises i... [2387 chars]",
+          "url": "https://www.straitstimes.com/singapore/in-your-opinion-podcast-record-breaking-coe-s-impact-on-singapore-society",
+          "image": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/29/IYO20ep202720picture.jpg?VersionId=MV.fSMiXxIgHbViU8L6v1D6raxs4Mso2",
+          "publishedAt": "2023-05-29T10:00:00Z",
+          "source": {
+            "name": "The Straits Times",
+            "url": "https://www.straitstimes.com"
+          }
+        },
+        {
+          "title": "These iPhone Models Could Be Discontinued After iPhone 15 Launch This Year: Know More",
+          "description": "The company is expected to stop selling one of its older iPhone models when the iPhone 15 series comes out later this year.",
+          "content": "Apple iPhone 15 launch is expected later this year, and the rumour mills have been busy churning out new details and even leaked design renders of these iPhones. Apple is widely expected to offer the iPhone 15 series with USB C charging support, whic... [1521 chars]",
+          "url": "https://www.news18.com/tech/these-iphone-models-could-be-discontinued-after-iphone-15-launch-this-year-know-more-7946353.html",
+          "image": "https://images.news18.com/ibnlive/uploads/2023/03/iphone-15-dynamic-167951154416x9.jpg",
+          "publishedAt": "2023-05-29T09:51:21Z",
+          "source": {
+            "name": "News18",
+            "url": "https://www.news18.com"
+          }
+        },
+        {
+          "title": "OnePlus 11 5G Marble Odyssey Limited Edition Phone India Unveil Launch Price Microcrystalline Rock Specs Features",
+          "description": "OnePlus on Monday unveiled the limited edition OnePlus 11 5G Marble Odyssey smartphone.",
+          "content": "OnePlus on Monday unveiled the limited edition OnePlus 11 5G Marble Odyssey smartphone. The smartphone is said to be the only one to be made from a rare microcrystalline rock material that resembles a marble finish and creates a visual and tactile ex... [2779 chars]",
+          "url": "https://news.abplive.com/technology/gadgets/oneplus-11-5g-marble-odyssey-limited-edition-phone-india-unveil-launch-price-microcrystalline-rock-specs-features-1605520",
+          "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/05/29/b5bc1b3cd277d887dd62f4546b75da9a1685352106182295_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
+          "publishedAt": "2023-05-29T09:43:14Z",
+          "source": {
+            "name": "ABP Live",
+            "url": "https://news.abplive.com"
+          }
+        },
+        {
+          "title": "Square Enix changed Final Fantasy 16’s UI following fan feedback, then changed it back",
+          "description": "Producer Naoki Yoshida says the team decided to revert to its original design…",
+          "content": "Final Fantasy 16‘s user interface was temporarily changed due to online feedback, before Square Enix decided to undo the changes and restore the original design.\nIn an interview with Final Fantasy Union, producer Naoki Yoshida was asked if the team h... [1644 chars]",
+          "url": "https://www.videogameschronicle.com/news/square-enix-changed-final-fantasy-16s-ui-following-fan-feedback-then-changed-it-back/",
+          "image": "https://www.videogameschronicle.com/files/2023/05/Final-Fantasy-16-9.jpg",
+          "publishedAt": "2023-05-29T09:36:02Z",
+          "source": {
+            "name": "Video Games Chronicle",
+            "url": "https://www.videogameschronicle.com"
+          }
+        },
+        {
+          "title": "Using AI to reduce time and costs in marketing videos · TechNode",
+          "description": "TechNode talks with Ken Wang, founder and CEO of BOOLV, on using AI tools to speed up content creation in marketing and e-commerce.",
+          "content": "Using AI tools in content creation is increasingly an industry norm as the AI models behind the tools become more sophisticated. TechNode caught up with Ken Wang, founder and CEO of BOOLV, at the BEYOND Expo 2023 in mid-May. BOOLV is a Hong Kong-base... [4545 chars]",
+          "url": "https://technode.com/2023/05/29/founders-qa-using-ai-to-reduce-time-and-costs-in-marketing-video-creation/",
+          "image": "https://i0.wp.com/technode.com/wp-content/uploads/2023/05/BOOLV_header-e1685080093437.png?fit=2560%2C1427&ssl=1",
+          "publishedAt": "2023-05-29T09:30:00Z",
+          "source": {
+            "name": "TechNode",
+            "url": "https://technode.com"
+          }
+        },
+        {
+          "title": "Bringing Clarity to the Dark: Using Sensors in Low-Light Imaging",
+          "description": "The demand for high-quality images has driven the development of low-light imaging technology, making sensors a critical component in capturing images in challenging lighting conditions.",
+          "content": "The demand for high-quality images has driven the development of low-light imaging technology, making sensors a critical component in capturing images in challenging lighting conditions. This article explores the significance of sensors in low-light ... [10054 chars]",
+          "url": "https://www.azosensors.com/article.aspx?ArticleID=2829",
+          "image": "https://d10lvax23vl53t.cloudfront.net/images/Article_Images/SocialSharingImage_2829_16853524349303585.jpg",
+          "publishedAt": "2023-05-29T09:29:00Z",
+          "source": {
+            "name": "AZoSensors",
+            "url": "https://www.azosensors.com"
+          }
+        },
+        {
+          "title": "See inside The Block couple's Gold Coast 'Queenslander' after it sold for a massive $1.9million",
+          "description": "The Block stars Jess and Ayden Hogan have sold their Queenslander style home for a massive $1.9million after less than a week on the market.",
+          "content": "Advertisement\nThe Block stars Jess and Ayden Hogan have sold their Queenslander style home for a massive $1.9million after less than a week on the market.\nThe stars, who walked away with $665,000 after appearing on the show in 2015, had a huge 28 off... [1752 chars]",
+          "url": "https://www.dailymail.co.uk/tvshowbiz/article-12135597/See-inside-Block-couples-Gold-Coast-Queenslander-sold-massive-1-9million.html",
+          "image": "https://i.dailymail.co.uk/1s/2023/05/29/09/71524173-0-image-a-30_1685349787248.jpg",
+          "publishedAt": "2023-05-29T09:20:58Z",
+          "source": {
+            "name": "Daily Mail",
+            "url": "https://www.dailymail.co.uk"
+          }
+        },
+        {
+          "title": "The Best Minecraft Maps You Should Try Out",
+          "description": "This article will take a look at four of the best Minecraft maps you should try out for some fun and adventure in the game. Details inside.",
+          "content": "Minecraft Maps are a way for players to have fun with their friends in different worlds with various game modes and storylines connected to them. We will list four of the best ones you should try out.\nAdvertisement\nMinecraft maps are some of the best... [2994 chars]",
+          "url": "https://thesportsrush.com/the-best-minecraft-maps-you-should-try-out/",
+          "image": "https://cdn-wp.thesportsrush.com/2023/05/b088d68d-2019-02-08_06.36.52.jpeg",
+          "publishedAt": "2023-05-29T09:07:23Z",
+          "source": {
+            "name": "The Sportsrush",
+            "url": "https://thesportsrush.com"
+          }
+        }
+
+      ]
+    }
+  ]
+
+}
+
+
+
+   
